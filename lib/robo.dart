@@ -5,7 +5,7 @@ void main() {
   runApp(MyApp());
 }
 
-final Uri _url = Uri.parse('http://192.168.15.12'); // URL do Google Chrome
+final Uri _url = Uri.parse('http://000.000.00.00'); // substitui pelo IP do seu esp32-cam
 
 class MyApp extends StatelessWidget {
   @override
